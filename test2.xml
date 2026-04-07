@@ -32,7 +32,7 @@
     <desc lang="en">No hay información disponible.</desc>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
-      </programme>
+  </programme>
       <programme start="20260407163000 -0300" stop="20260407170000 -0300" channel="9998">
     <title lang="en">Amigazazo</title>
     <desc lang="en">No hay información disponible.</desc>
@@ -51,7 +51,7 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
   </programme>
-        <programme start="20260407183000 -0300" stop="20260407190000 -0300" channel="9998">
+      <programme start="20260407183000 -0300" stop="20260407190000 -0300" channel="9998">
     <title lang="en">Pac-man y las aventuras fantasmales</title>
     <desc lang="en">No hay información disponible.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
