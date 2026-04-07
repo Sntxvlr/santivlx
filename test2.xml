@@ -39,7 +39,7 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
   </programme>
-      <programme start="20260407170000 -0300" stop="20260407164200 -0300" channel="9998">
+    <programme start="20260407170000 -0300" stop="20260407164200 -0300" channel="9998">
     <title lang="en">Lupi y Baduki</title>
     <desc lang="en">Dos amigos muy distintos, Lupi, un lobo de crin, súper confiado y lleno de energía, y Baduki, un perezoso soñador e introvertido, se embarcan en aventuras mientras aprenden sobre las diferencias, la amistad y el mundo. De hecho, todos en Vila Figueira tienen muchas diferencias entre ellos pero eso no les impide ser amigos y divertirse.</desc>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -53,9 +53,50 @@
   </programme>
         <programme start="20260407180000 -0300" stop="20260407183000 -0300" channel="9998">
     <title lang="en">Backyardigans</title>
-    <sub-title>The heart of the jungle</sub-title>
     <desc lang="en">Tyrone es Tarzán, pero también lo son Pablo y Austin. Cada uno aporta sus destrezas para ayudar a Uniqua, el brillante científico.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+            <programme start="20260407183000 -0300" stop="20260407184400 -0300" channel="9998">
+    <title lang="en">Pac-Man y las aventuras fantasmales</title>
+    <desc lang="en">Pac Man y las aventuras fantasmales.</desc>
+    <episode-num system="xmltv_ns">2.26.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+          <programme start="20260407184400 -0300" stop="20260407190000 -0300" channel="9998">
+    <title lang="en">Agente Binky: Al rescate</title>
+    <desc lang="en">Binky y sus compañeros tienen la misión de proteger su familia humana de cualquier enemigo alienígena, ya sea un ave, un avión de papel, una silla: todos pueden ser amenazas.</desc>
+    <episode-num system="xmltv_ns">2.26.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+            <programme start="20260407190000 -0300" stop="20260407193000 -0300" channel="9998">
+    <title lang="en">Los Marsupilamis</title>
+    <desc lang="en">Marsupilamis.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+              <programme start="20260407193000 -0300" stop="20260407200000 -0300" channel="9998">
+    <title lang="en">Doki</title>
+    <desc lang="en">Doki es una serie para niños de entre 5 y 7 años, y sus temas, humor y vocabulario están adaptados para ellos. Los televidentes identificarán a los personajes como sus amigos ¡y desearán poder acompañarlos en la aventura! En cada episodio, los niños pueden contar con que el Equipo Doki los llevará en una divertida aventura, enseñándoles cosas nuevas y geniales, y que al final los regresará a casa. El calor de la amistad de los integrantes del equipo siempre está presente. ¡Doki despierta en los niños la curiosidad por el mundo que les rodea y el deseo de emprender sus propias aventuras de aprendizaje en la vida real!.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+              <programme start="20260407200000 -0300" stop="20260407210000 -0300" channel="9998">
+    <title lang="en">Maraton</title>
+    <desc lang="en">Maraton de tus series favoritas.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+              <programme start="20260407210000 -0300" stop="20260407213000 -0300" channel="9998">
+    <title lang="en">El Mundo de Luna</title>
+    <desc lang="en">El mundo de luna</desc>
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+              <programme start="20260407213000 -0300" stop="20260407220000 -0300" channel="9998">
+    <title lang="en">Backyardigans</title>
+    <desc lang="en">Pablo, Tyrone y Uniqua son agentes secretos, infiltrados en el Museo del Tesoro.</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
   </programme>
 </tv>
