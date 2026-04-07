@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="A" generator-info-url="https://wAm">
+<channel id="TheSantiChannel.ar"><display-name>TheSantiChannel.ar</display-name></channel>
+<programme start="20260407150000 +0000" stop="20260407153000 +0000" channel="TheSantiChannel.ar"><title>100% Lobo; La leyenda del anillo lunar</title><sub-title>El regreso del poodle</sub-title><desc>Las Batwheels usan su máquina duplicadora para hacer copias de su robot de reparacion y aliviar la carga de MOE, pero la Baticueva pronto es invadida cuando la máquina se estropea.</desc><episode-num system="xmltv_ns">2.1.</episode-num></programme>
+</tv>
