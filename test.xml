@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="test" generator-info-url="http://www.theuselessweb.com">
+  <channel id="9999">
+    <display-name lang="en">Familia</display-name>
+    <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <channel id="9998">
+    <display-name lang="en">Santi</display-name>
+    <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <programme start="20260407000000 -0300" stop="20260407010000 -0300" channel="9999">
+    <title lang="en">probando</title>
+    <desc lang="en">No hay información disponible.</desc>
+  </programme>
+  <programme start="20240114010000 -0300" stop="20240114020000 -0300" channel="9999">
+    <title lang="en">Contenido variado</title>
+    <desc lang="en">No hay información disponible.</desc>
+  </programme>
+  <programme start="20240114020000 -0300" stop="20240114030000 -0300" channel="9999">
+    <title lang="en">Contenido variado</title>
+    <desc lang="en">No hay información disponible.</desc>
