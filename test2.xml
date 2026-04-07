@@ -20,8 +20,8 @@
     <desc lang="en">Infantil. Freddy puede ser un caniche, pero tiene el corazón de un lobo, y lo demostrará al graduarse de la Academia Howlington, exclusiva para hombres lobo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/br_100-lobo-o-livro-de-hath-s02e15-vida-de-cacadora_l_l.jpg" />
   </programme>
-  <programme start="20260406000000 -0300" stop="20260407010000 -0300" channel="9999">
-    <title lang="en">Cierre</title>
+  <programme start="20260407153000 -0300" stop="20260407160000 -0300" channel="9998">
+    <title lang="en">Shasha y Milo</title>
     <desc lang="en">No hay información disponible.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
   </programme>
