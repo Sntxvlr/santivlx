@@ -10,16 +10,7 @@
     <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
-  <programme start="20260406050000 -0300" stop="20260407016000 -0300" channel="9999">
-    <title lang="en">Cierre</title>
-    <desc lang="en">No hay información disponible.</desc>
-    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
-  </programme>
-  <programme start="20240114010000 -0300" stop="20240114020000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">No hay información disponible.</desc>
-  </programme>
-  <programme start="20240114020000 -0300" stop="20240114150000 -0300" channel="9999">
+  <programme start="20260406000000 -0300" stop="20260407010000 -0300" channel="9999">
     <title lang="en">Cierre</title>
     <desc lang="en">No hay información disponible.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
@@ -29,24 +20,4 @@
     <desc lang="en">Infantil. Freddy puede ser un caniche, pero tiene el corazón de un lobo, y lo demostrará al graduarse de la Academia Howlington, exclusiva para hombres lobo.</desc>
     <episode-num system="xmltv_ns">2.1.</episode-num></programme>
     <icon src="https://cdn.mitvstatic.com/programs/br_100-lobo-o-livro-de-hath-s02e15-vida-de-cacadora_l_l.jpg" />
-    </programme>
-  <programme start="20240114160000 -0300" stop="20240114163000 -0300" channel="9998">
-    <title lang="en">VelozMente</title>
-    <desc lang="en">Un grupo de cinco niños participa en una serie de juegos que prueban su velocidad visual, memoria, concentración y rapidez mental.</desc>
-    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
-    </programme>
-  <programme start="20240114163000 -0300" stop="20240114170000 -0300" channel="9998">
-    <title lang="en">Amigazazo</title>
-    <desc lang="en">Una serie fresca de diversión, fiesta y grandes grandes aventuras, todo comienza con un niño pequeño. Yuri tiene 6 años y es hijo único, con una actitud enérgica y curiosa ante la vida. En su mundo imaginario es valiente, atrevido y aventurero, pero en la vida real él es realmente tímido y solitario. Al menos lo era hasta el día en que se le ocurrió una idea. Una gradiosa idea. ¡Golias! Golias es el amigo imaginario de Yuri - sólo no se lo digas Golias - ¡él no sabe que es imaginario! Tampoco Bongo o Vanessa. ¡Pero son imaginarios! Con la ayuda de sus amigazazos,Yuri y sus compañeros Lili y Matt, descubren que con la imaginación puedes, ¡realmente puedes!</desc>
-    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
-        </programme>
-  <programme start="20240114170000 -0300" stop="20240114173000 -0300" channel="9998">
-    <title lang="en">Lupi Y Baduki</title>
-    <desc lang="en">Dos amigos muy distintos, Lupi, un lobo de crin, súper confiado y lleno de energía, y Baduki, un perezoso soñador e introvertido, se embarcan en aventuras mientras aprenden sobre las diferencias, la amistad y el mundo. De hecho, todos en Vila Figueira tienen muchas diferencias entre ellos pero eso no les impide ser amigos y divertirse.</desc>
-    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
-        </programme>
-  <programme start="20240114173000 -0300" stop="20240114180000 -0300" channel="9998">
-    <title lang="en">Backyardigans</title>
-    <desc lang="en">Tyrone es Tarzán, pero también lo son Pablo y Austin. Cada uno aporta sus destrezas para ayudar a Uniqua, el brillante científico.</desc>
-    <episode-num system="xmltv_ns">1.2.</episode-num></programme>
-    <icon src="https://cdn.mitvstatic.com/programs/co_backyardigans-t01e02-the-heart-of-the-jungle_l_l.jpg" />
+  </programme>
