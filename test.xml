@@ -19,9 +19,10 @@
     <title lang="en">Contenido variado</title>
     <desc lang="en">No hay información disponible.</desc>
   </programme>
-  <programme start="20240114020000 -0300" stop="20240114030000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
+  <programme start="20240114020000 -0300" stop="20240114150000 -0300" channel="9999">
+    <title lang="en">Cierre</title>
     <desc lang="en">No hay información disponible.</desc>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
   </programme>
   <programme start="20240114150000 -0300" stop="20240114153000 -0300" channel="9998">
     <title lang="en">100% Lobo; La leyenda del anillo lunar</title>
