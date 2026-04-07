@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="test" generator-info-url="http://www.theuselessweb.com">
+  <channel id="9999">
+    <display-name lang="en">Canal Familia</display-name>
+    <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <channel id="9998">
+    <display-name lang="en">The Santi Channel</display-name>
+    <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <programme start="20260406000000 -0300" stop="20260407010000 -0300" channel="9999">
+    <title lang="en">Cierre</title>
+    <desc lang="en">No hay información disponible.</desc>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20260407150000 -0300" stop="20260407153000 -0300" channel="9998">
+    <title lang="en">100% Lobo; La leyenda del anillo lunar</title>
+    <desc lang="en">Infantil. Freddy puede ser un caniche, pero tiene el corazón de un lobo, y lo demostrará al graduarse de la Academia Howlington, exclusiva para hombres lobo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_100-lobo-o-livro-de-hath-s02e15-vida-de-cacadora_l_l.jpg" />
+  </programme>
+    <programme start="20260407153000 -0300" stop="20260407160000 -0300" channel="9998">
+    <title lang="en">100% Lobo; La leyenda del anillo lunar</title>
+    <desc lang="en">Infantil. Freddy puede ser un caniche, pero tiene el corazón de un lobo, y lo demostrará al graduarse de la Academia Howlington, exclusiva para hombres lobo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_100-lobo-o-livro-de-hath-s02e15-vida-de-cacadora_l_l.jpg" />
+  </programme>
