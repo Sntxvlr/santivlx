@@ -5,3 +5,7 @@ https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
 https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="serie" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S56
 https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="series" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S56
+https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshow" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S56
+https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
