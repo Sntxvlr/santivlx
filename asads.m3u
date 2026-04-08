@@ -9,3 +9,5 @@ https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
 https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshow" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S5566
 https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
+#EXTINF:-1 tvg-type="serie" tvg-serie="{series_id}" tvg-season="1" tvg-episode="1" serie-title="111" group-title="category_title",EEEE
+https://example.com/tv-shows/<IMDb ID>-S01E02.mkv
