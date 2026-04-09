@@ -2,8 +2,8 @@
 <tv generator-info-name="test" generator-info-url="http://www.theuselessweb.com">
   <channel id="9999">
     <display-name lang="en">Canal Familia</display-name>
-    <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
-    <url>http://www.theuselessweb.com</url>
+    <icon src="https://i.ibb.co/ksjf6D4K/Whats-App-Image-2026-03-24-at-8-47-54-AM.png" />
+    <url>https://canalfamiliahd-ven.odoo.com/</url>
   </channel>
   <channel id="9998">
     <display-name lang="en">The Santi Channel</display-name>
