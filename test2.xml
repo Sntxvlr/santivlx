@@ -380,5 +380,110 @@
     <desc lang="en">Cierre del canal</desc>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+    </programme>
+    <programme start="20260411150000 -0300" stop="20260411153000 -0300" channel="9998">
+    <title lang="en">100% Lobo; La leyenda del anillo lunar</title>
+    <desc lang="en">Infantil. Freddy puede ser un caniche, pero tiene el corazón de un lobo, y lo demostrará al graduarse de la Academia Howlington, exclusiva para hombres lobo.</desc>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/br_100-lobo-o-livro-de-hath-s02e15-vida-de-cacadora_l_l.jpg" />
+  </programme>
+  <programme start="20260411153000 -0300" stop="20260411160000 -0300" channel="9998">
+    <title lang="en">Shasha y Milo</title>
+    <desc lang="en">No hay información disponible.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+    <programme start="20260411160000 -0300" stop="20260411163000 -0300" channel="9998">
+    <title lang="en">Velozmente</title>
+    <desc lang="en">Un grupo de cinco niños participa en una serie de juegos que prueban su velocidad visual, memoria, concentración y rapidez mental.</desc>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+    <programme start="20260411163000 -0300" stop="20260411170000 -0300" channel="9998">
+    <title lang="en">Amigazazo</title>
+    <desc lang="en">Una serie fresca de diversión, fiesta y grandes grandes aventuras, todo comienza con un niño pequeño. Yuri tiene 6 años y es hijo único, con una actitud enérgica y curiosa ante la vida. En su mundo imaginario es valiente, atrevido y aventurero, pero en la vida real él es realmente tímido y solitario. Al menos lo era hasta el día en que se le ocurrió una idea. Una gradiosa idea. ¡Golias! Golias es el amigo imaginario de Yuri - sólo no se lo digas Golias - ¡él no sabe que es imaginario! Tampoco Bongo o Vanessa. ¡Pero son imaginarios! Con la ayuda de sus amigazazos,Yuri y sus compañeros Lili y Matt, descubren que con la imaginación puedes, ¡realmente puedes!.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+    <programme start="20260411170000 -0300" stop="20260411174200 -0300" channel="9998">
+    <title lang="en">Lupi y Baduki</title>
+    <desc lang="en">Dos amigos muy distintos, Lupi, un lobo de crin, súper confiado y lleno de energía, y Baduki, un perezoso soñador e introvertido, se embarcan en aventuras mientras aprenden sobre las diferencias, la amistad y el mundo. De hecho, todos en Vila Figueira tienen muchas diferencias entre ellos pero eso no les impide ser amigos y divertirse.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/br_lupi-baduki-s01e06-n-o-e-so-figobol_l_l.jpg" />
+  </programme>
+        <programme start="20260411174200 -0300" stop="20260411180000 -0300" channel="9998">
+    <title lang="en">Lupi y Baduki</title>
+    <desc lang="en">Dos amigos muy distintos, Lupi, un lobo de crin, súper confiado y lleno de energía, y Baduki, un perezoso soñador e introvertido, se embarcan en aventuras mientras aprenden sobre las diferencias, la amistad y el mundo. De hecho, todos en Vila Figueira tienen muchas diferencias entre ellos pero eso no les impide ser amigos y divertirse.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/br_lupi-baduki-s01e06-n-o-e-so-figobol_l_l.jpg" />
+  </programme>
+        <programme start="20260411180000 -0300" stop="20260411183000 -0300" channel="9998">
+    <title lang="en">Backyardigans</title>
+    <desc lang="en">Tyrone es Tarzán, pero también lo son Pablo y Austin. Cada uno aporta sus destrezas para ayudar a Uniqua, el brillante científico.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/co_backyardigans-t01e02-the-heart-of-the-jungle_l_l.jpg" />
+  </programme>
+            <programme start="20260411183000 -0300" stop="20260411184400 -0300" channel="9998">
+    <title lang="en">Pac-Man y las aventuras fantasmales</title>
+    <desc lang="en">Pac Man y las aventuras fantasmales.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pac-man-y-las-aventuras-fantasmales-s02e04-competencia-cosmica_l_l.jpg" />
+  </programme>
+          <programme start="20260411184400 -0300" stop="20260411190000 -0300" channel="9998">
+    <title lang="en">Agente Binky: Al rescate</title>
+    <desc lang="en">Binky y sus compañeros tienen la misión de proteger su familia humana de cualquier enemigo alienígena, ya sea un ave, un avión de papel, una silla: todos pueden ser amenazas.</desc>
+    <episode-num system="xmltv_ns">2.26.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_agente-binky-al-rescate-s02e29-agente-binky-no-puede-parar_l_l.jpg" />
+  </programme>
+            <programme start="20260411190000 -0300" stop="20260411193000 -0300" channel="9998">
+    <title lang="en">Los Marsupilamis</title>
+    <desc lang="en">Marsupilamis.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://www.mundoplus.tv/wp-content/uploads/2026/03/LOS-MARSUPILAMIS.jpg" />
+  </programme>
+              <programme start="20260411193000 -0300" stop="20260411200000 -0300" channel="9998">
+    <title lang="en">Doki</title>
+    <desc lang="en">Doki es una serie para niños de entre 5 y 7 años, y sus temas, humor y vocabulario están adaptados para ellos. Los televidentes identificarán a los personajes como sus amigos ¡y desearán poder acompañarlos en la aventura! En cada episodio, los niños pueden contar con que el Equipo Doki los llevará en una divertida aventura, enseñándoles cosas nuevas y geniales, y que al final los regresará a casa. El calor de la amistad de los integrantes del equipo siempre está presente. ¡Doki despierta en los niños la curiosidad por el mundo que les rodea y el deseo de emprender sus propias aventuras de aprendizaje en la vida real!.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/co_doki-las-diferentes-horas-del-mundo_l_l.jpg" />
+  </programme>
+              <programme start="20260411200000 -0300" stop="20260411210000 -0300" channel="9998">
+    <title lang="en">Maraton</title>
+    <desc lang="en">Maraton de tus series favoritas.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+              <programme start="20260411210000 -0300" stop="20260411213000 -0300" channel="9998">
+    <title lang="en">El Mundo de Luna</title>
+    <desc lang="en">El mundo de luna</desc>
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-mundo-de-luna_l_l.jpg" />
+  </programme>
+              <programme start="20260411213000 -0300" stop="20260411220000 -0300" channel="9998">
+    <title lang="en">Backyardigans</title>
+    <desc lang="en">Pablo, Tyrone y Uniqua son agentes secretos, infiltrados en el Museo del Tesoro.</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/co_backyardigans-t01e02-the-heart-of-the-jungle_l_l.jpg" />
+  </programme>
+    <programme start="20260411220000 -0300" stop="20260412150000 -0300" channel="9998">
+    <title lang="en">Cierre</title>
+    <desc lang="en">Cierre del canal</desc>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    </programme>
+    <programme start="20260412150000 -0300" stop="20260412160000 -0300" channel="9998">
+    <title lang="en">Especial Concursos</title>
+    <desc lang="en">Entrena tu mente con Velozmente, presta mucha atencion a cada detalle, diviertete con Kito Pizzas, habilidad y estrategia</desc>
+    <credits>
+    <director>Jonathan Dayton</director>
+    <director>Valerie Faris</director>
+    <actor>Mariano Chiesa</actor>
+    <actor>Chucho Ariel Rodriguez</actor>
+    <icon src="https://cdn.mitvstatic.com/programs/br_100-lobo-o-livro-de-hath-s02e15-vida-de-cacadora_l_l.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
   </programme>
 </tv>
