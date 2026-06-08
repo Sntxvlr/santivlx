@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="vod" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S01E01: Episode 1 Title
-https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshows" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S5535
-https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="serie" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S56
-https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="series" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S546
-https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshow" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S5566
-https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
-#EXTINF:-1 tvg-type="serie" tvg-serie="{series_id}" tvg-season="1" tvg-episode="1" serie-title="111" group-title="category_title",EEEE
-https://example.com/tv-shows/<IMDb ID>-S01E02.mkv
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"61c18cefecc2d067beaa9ff181305345":"38d6f650cbf9a38fd9f35c01f98e647a"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1,Nickelodeon
+https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMDU0NjE3Iiwic2lwIjoiMTgxLjI1LjE3Ljk4IiwicGF0aCI6Ii9saXZlL2MzZWRzL05pY2tlbG9kZW9uL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZDVhMDMzMmM4NzFlMGRmIiwic2Vzc2lvbl9pZCI6ImQ3MWI2ZDkzYThiOTBiOGY4NmQ0NTM2YjcxYTUyZGUwLTE3ODA4ODE4MTctODIwIiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDY0NDE4OTgtLWZsb3c6OTk5OTAwMDA2NDQxODk4OlA6MTQ1MDk1MDAiLCJkZXZpY2VfaWQiOiJkNzFiNmQ5M2E4YjkwYjhmODZkNDUzNmI3MWE1MmRlMCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.c2dLXZumO1mI3A0WBrRDmDLOdp1ep-bfZbVrysqYsFo0fueI17VhoBmNKyfdMNClenYJD-1vQlJpwtXwjRb4mQ==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"65a5bfa3c7a72dde60be9b0c7406c8fc":"0b40ae9f78a7bac3b57ecbf72d3c081e"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1,ESPN 2
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMDU4NjQzIiwic2lwIjoiMTgxLjI1LjE3Ljk4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VTUE4yX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjNlMDlkMWM1YjdlOWNlZCIsInNlc3Npb25faWQiOiJkNzFiNmQ5M2E4YjkwYjhmODZkNDUzNmI3MWE1MmRlMC0xNzgwODg1ODQzLTE5NCIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDA2NDQxODk4LS1mbG93Ojk5OTkwMDAwNjQ0MTg5ODpQOjE0NTA5NTAwIiwiZGV2aWNlX2lkIjoiZDcxYjZkOTNhOGI5MGI4Zjg2ZDQ1MzZiNzFhNTJkZTAiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.HpU3Pt09y-rR_BuCmR8B-_T9mk0JTHSg-O90rCM3y7B-uG1A4BQL4anY2J0J55vIQ1SqQ62TdNEuSjQXCRJ8lQ==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
