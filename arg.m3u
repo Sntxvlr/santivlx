@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png",A24
+https://g5.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
+ 
+#EXTINF:-1 , unife
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+ 
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+ 
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="Noticias",Cronica HD
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+ 
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN 2
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+ 
+#EXTINF:-1 tvg-id="0964" tvg-name="Canal E" group-title="Noticias" tvg-logo="https://files.catbox.moe/h069t6.webp", Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" , Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+ 
+#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Otros/Extras y Radios" tvg-logo="https://files.catbox.moe/lk049e.png" , Argentinisima Satelital 
+https://stream1.sersat.com/hls/argentinisima.m3u8
+ 
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+http://190.7.19.197:232/play/a059/index.m3u8
+ 
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe HD
+http://181.233.180.4:8000/play/a06c/index.m3u8?hls
+ 
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+ 
+#EXTVLCOPT:http-origin=https://vodgc.net
+#EXTVLCOPT:http-referrer=https://vodgc.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/finwuj.png" group-title="General/Abierta",El Trece WEB
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+ 
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/5xa4p6.png", Canal 9 
+http://190.7.19.197:232/play/a03k/index.m3u8
+ 
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="General/Abierta",America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+ 
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="General/Abierta",TVPublica
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+ 
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2332.png" group-title="General/Abierta",Canal de la ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+ 
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTINF:-1 tvg-logo="https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/230.png" group-title="Musicales",CM Canal de la musica HD
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive_manifest_type=hls
+#KODIPROP:inputstream.adaptive_manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive_play_timeshift_buffer
+#EXTVLCOPT:http-reconnect
+#EXTVLCOPT:http-continuous
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:no-audio-desync
+#EXTVLCOPT:avcodec-hw=auto
+#EXTVLCOPT:avcodec-fast
+#EXTINF:-1 tvg-id="vGNglKWqwcQ" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="Argentina M3u" proxy="true",Quiero Musica web
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=vGNglKWqwcQ&proxy=1
+ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive_manifest_type=hls
+#KODIPROP:inputstream.adaptive_manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive_play_timeshift_buffer
+#EXTVLCOPT:http-reconnect
+#EXTVLCOPT:http-continuous
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:no-audio-desync
+#EXTVLCOPT:avcodec-hw=auto
+#EXTVLCOPT:avcodec-fast
+#EXTINF:-1 tvg-id="vGNglKWqwcQ" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="Argentina M3u" proxy="true",Ar12
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=JrmCaXL5GZs&proxy=1
